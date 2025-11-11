@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Karise!</h1>
+<h1 align="center">👋 Hello, I'm Suluh!</h1>
 <h3 align="center">🚀 Fullstack Web Developer & Blockchain Enthusiast</h3>
 
 <p align="center">
